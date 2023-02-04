@@ -1,0 +1,64 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+header{
+    background: #CCCCCC;
+    padding: 20px 0;
+}
+
+.header-box{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+ul li{
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.375em;
+	text-decoration: none;
+}
+
+.banner{
+    width: 100%;
+}
+
+nav li:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+main {
+
+    width: 940px;
+    text-align: justify;
+    margin: 0 auto;
+
+}
+
+h2{
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+main p {
+
+    margin: 0 0 1em;
+}
